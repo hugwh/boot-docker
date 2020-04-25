@@ -93,6 +93,10 @@
                         <tags>
                             <tag>latest</tag>
                         </tags>
+                        <auth>
+                            <username>hugwh</username>
+                            <password>Hwh118122</password>
+                        </auth>
                     </to>
                     <container>
                         <jvmFlags>
